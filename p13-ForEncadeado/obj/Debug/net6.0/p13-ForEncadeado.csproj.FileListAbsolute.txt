@@ -1,0 +1,15 @@
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\bin\Debug\net6.0\p13-ForEncadeado.exe
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\bin\Debug\net6.0\p13-ForEncadeado.deps.json
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\bin\Debug\net6.0\p13-ForEncadeado.runtimeconfig.json
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\bin\Debug\net6.0\p13-ForEncadeado.dll
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\bin\Debug\net6.0\ref\p13-ForEncadeado.dll
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\bin\Debug\net6.0\p13-ForEncadeado.pdb
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\p13-ForEncadeado.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\p13-ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\p13-ForEncadeado.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\p13-ForEncadeado.AssemblyInfo.cs
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\p13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\p13-ForEncadeado.dll
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\ref\p13-ForEncadeado.dll
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\p13-ForEncadeado.pdb
+C:\Users\win\source\repos\8-Condicionais\p13-ForEncadeado\obj\Debug\net6.0\p13-ForEncadeado.genruntimeconfig.cache

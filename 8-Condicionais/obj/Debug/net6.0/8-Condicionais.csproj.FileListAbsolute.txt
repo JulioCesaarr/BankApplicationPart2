@@ -1,0 +1,15 @@
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\bin\Debug\net6.0\8-Condicionais.exe
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\bin\Debug\net6.0\8-Condicionais.deps.json
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\bin\Debug\net6.0\8-Condicionais.runtimeconfig.json
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\bin\Debug\net6.0\8-Condicionais.dll
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\bin\Debug\net6.0\ref\8-Condicionais.dll
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\bin\Debug\net6.0\8-Condicionais.pdb
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\8-Condicionais.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\8-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\8-Condicionais.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\8-Condicionais.AssemblyInfo.cs
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\8-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\8-Condicionais.dll
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\ref\8-Condicionais.dll
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\8-Condicionais.pdb
+C:\Users\win\source\repos\8-Condicionais\8-Condicionais\obj\Debug\net6.0\8-Condicionais.genruntimeconfig.cache

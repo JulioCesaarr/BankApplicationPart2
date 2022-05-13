@@ -1,0 +1,14 @@
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.exe
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.deps.json
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\ref\p12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\ref\p12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\win\source\repos\8-Condicionais\p12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\p12-CalculaInvestimentoLongoPrazo.genruntimeconfig.cache

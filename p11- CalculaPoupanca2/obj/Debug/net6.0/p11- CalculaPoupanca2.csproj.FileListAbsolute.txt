@@ -1,0 +1,14 @@
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\bin\Debug\net6.0\p11- CalculaPoupanca2.exe
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\bin\Debug\net6.0\p11- CalculaPoupanca2.deps.json
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\bin\Debug\net6.0\p11- CalculaPoupanca2.runtimeconfig.json
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\bin\Debug\net6.0\p11- CalculaPoupanca2.dll
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\bin\Debug\net6.0\ref\p11- CalculaPoupanca2.dll
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\bin\Debug\net6.0\p11- CalculaPoupanca2.pdb
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\obj\Debug\net6.0\p11- CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\obj\Debug\net6.0\p11- CalculaPoupanca2.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\obj\Debug\net6.0\p11- CalculaPoupanca2.AssemblyInfo.cs
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\obj\Debug\net6.0\p11- CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\obj\Debug\net6.0\p11- CalculaPoupanca2.dll
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\obj\Debug\net6.0\ref\p11- CalculaPoupanca2.dll
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\obj\Debug\net6.0\p11- CalculaPoupanca2.pdb
+C:\Users\win\source\repos\8-Condicionais\p11- CalculaPoupanca2\obj\Debug\net6.0\p11- CalculaPoupanca2.genruntimeconfig.cache

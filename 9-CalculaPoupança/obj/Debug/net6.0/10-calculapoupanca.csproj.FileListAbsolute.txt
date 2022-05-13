@@ -1,0 +1,15 @@
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\bin\Debug\net6.0\10-calculapoupanca.exe
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\bin\Debug\net6.0\10-calculapoupanca.deps.json
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\bin\Debug\net6.0\10-calculapoupanca.runtimeconfig.json
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\bin\Debug\net6.0\10-calculapoupanca.dll
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\bin\Debug\net6.0\ref\10-calculapoupanca.dll
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\bin\Debug\net6.0\10-calculapoupanca.pdb
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\10-calculapoupanca.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\10-calculapoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\10-calculapoupanca.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\10-calculapoupanca.AssemblyInfo.cs
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\10-calculapoupanca.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\10-calculapoupanca.dll
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\ref\10-calculapoupanca.dll
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\10-calculapoupanca.pdb
+C:\Users\win\source\repos\8-Condicionais\9-CalculaPoupança\obj\Debug\net6.0\10-calculapoupanca.genruntimeconfig.cache
